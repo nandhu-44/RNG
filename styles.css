@@ -2,7 +2,7 @@ body {
     font-family: 'Courier New', Courier, monospace;
     background: linear-gradient(-75deg, #03c7b7, #9900ff, #cd6503, #f20056, yellow);
     background-size: 500% 500%;
-    animation: gradient 60s ease infinite;
+    animation: gradient 90s ease infinite;
 }
 
 @keyframes gradient {
